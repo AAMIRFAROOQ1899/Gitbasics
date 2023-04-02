@@ -1,4 +1,7 @@
 this is2nd feayure
 another featire added by dev2
 yhghgh
+<<<<<<< HEAD
 doen 4th chnages
+=======
+>>>>>>> b68b412 (added chnages to feature2)
