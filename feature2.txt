@@ -1,2 +1,7 @@
 this is2nd feayure
+<<<<<<< HEAD
 
+=======
+another featire added by dev2
+yhghgh
+>>>>>>> b68b412 (added chnages to feature2)
