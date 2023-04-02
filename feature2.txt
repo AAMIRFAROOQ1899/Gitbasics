@@ -5,6 +5,10 @@ this is2nd feayure
 another featire added by dev2
 yhghgh
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> b68b412 (added chnages to feature2)
 =======
 >>>>>>> b68b412 (added chnages to feature2)
+=======
+doen 4th chnages
+>>>>>>> d903c8f (4th chnage)
