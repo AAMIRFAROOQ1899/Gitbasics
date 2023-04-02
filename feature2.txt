@@ -1,5 +1,6 @@
 this is2nd feayure
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 another featire added by dev2
@@ -12,3 +13,11 @@ yhghgh
 =======
 doen 4th chnages
 >>>>>>> d903c8f (4th chnage)
+=======
+another featire added by dev2
+yhghgh
+<<<<<<< HEAD
+doen 4th chnages
+=======
+>>>>>>> b68b412 (added chnages to feature2)
+>>>>>>> dev
