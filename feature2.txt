@@ -4,4 +4,7 @@ this is2nd feayure
 =======
 another featire added by dev2
 yhghgh
+<<<<<<< HEAD
+>>>>>>> b68b412 (added chnages to feature2)
+=======
 >>>>>>> b68b412 (added chnages to feature2)
